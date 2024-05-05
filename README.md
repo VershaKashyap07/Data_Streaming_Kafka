@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
-- [What You'll Learn](#what-youll-learn)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
 
@@ -21,16 +20,7 @@ The project is designed with the following components:
 - **Control Center and Schema Registry**: Helps in monitoring and schema management of our Kafka streams.
 - **Apache Spark**: For data processing with its master and worker nodes.
 
-## What You'll Learn
-
-- Setting up a data pipeline with Apache Airflow
-- Real-time data streaming with Apache Kafka
-- Distributed synchronization with Apache Zookeeper
-- Data processing techniques with Apache Spark
-- Data storage solutions with PostgreSQL
-- Containerizing your entire data engineering setup with Docker
-
-## Technologies
+## Technologies Used
 
 - Apache Airflow
 - Python
